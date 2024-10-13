@@ -140,7 +140,7 @@ else:
 st.sidebar.title("How to Use")
 st.sidebar.markdown("""
 1. Select your user type (Kid, Adult, or Senior).
-2. Ask questions about Pinnacle Prevention in the chat interface.
+2. Ask questions about Pinnacle Prevention in the chat interface: About hours, programs, etc!
 3. The AI will provide information based on your user type and the center's details.
 
 Quick Links:
