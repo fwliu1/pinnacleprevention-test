@@ -34,7 +34,7 @@ def get_gemini_response(model, question, user_type, context):
     return response.text
 
 # Streamlit app
-st.title("Pinnacle Prevention Assistant")
+st.title("Pinnacle Prevention Chat Assistant")
 
 # Sidebar for context input (for demo purposes, normally this would be pre-set)
 #st.sidebar.title("Set Envision Center Information")
